@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "B00124985_Alpha_Game",
+"dataUrl": "AlphaGame_B00124985_pt6.data.unityweb",
+"wasmCodeUrl": "AlphaGame_B00124985_pt6.wasm.code.unityweb",
+"wasmFrameworkUrl": "AlphaGame_B00124985_pt6.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
